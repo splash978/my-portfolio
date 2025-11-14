@@ -34,7 +34,7 @@ const Navbar = () => {
         {/* Logo */}
         <Link
           to="/"
-          className="text-2xl font-bold text-blue-600 dark:text-blue-400"
+          className="text-2xl font-b text-blue-600 dark:text-blue-400"
         >
           SIMON-DANIEL
         </Link>
